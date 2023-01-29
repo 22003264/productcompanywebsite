@@ -231,7 +231,7 @@ HOME
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by Karthk.
       </div>
     </div>
   </body>
@@ -349,7 +349,7 @@ products
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Tharun.A.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by Prasanna.
       </div>
     </div>
   </body>
@@ -423,7 +423,7 @@ people
         </div>        
     </div>
     <div class="footer">
-      Copyright &#169; 2021 Vasu health Care Private Limited, Developed by Lakshman reddy
+      Copyright &#169; 2021 Vasu health Care Private Limited, Developed by Sirisha Reddy
     </div>
   </div>
 </body>
